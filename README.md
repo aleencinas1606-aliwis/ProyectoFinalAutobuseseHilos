@@ -21,12 +21,11 @@ Funcion 4: Simular una carrera final basada en la cantidad de personas registrad
 - Uso de hilos para simular clientes comprando boletos.
 -  Simulacion de carrera de autobuses con dibujo en la consola.
 
-# Tecnologias: Lenguaje: Java  
+#Tecnologias: Lenguaje: Java  
 Framework / IDE: Apache NetBeans  
 Sistema de construccion: Maven  
 Control de versiones: Git / GitHub  
 
-# Instalacion: https://github.com/aleencinas1606-aliwis/ProyectoFinalAutobuseseHilos/tree/main
+#Instalacion: https://github.com/aleencinas1606-aliwis/ProyectoFinalAutobuseseHilos/tree/main
 
-# Autores
-Equipo 5  
+#Autores: Equipo 5  
